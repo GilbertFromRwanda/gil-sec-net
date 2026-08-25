@@ -1,0 +1,9 @@
+gil-sec-net.exe
+gil-sec-net
+gil-sec-net.log
+gil-sec-net.pause
+security.log
+*.log
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat

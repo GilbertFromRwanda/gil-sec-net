@@ -1,0 +1,8 @@
+{
+  "domains": [
+    "eth-mainnet.publicnode.com",
+    "ethereum-rpc.publicnode.com",
+    "cloudflare-eth.com",
+    "infura.io"
+  ]
+}
